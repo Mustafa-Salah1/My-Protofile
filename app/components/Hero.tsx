@@ -116,7 +116,7 @@ return ( <section
           <div className="absolute inset-0 bg-cyan-500/20 blur-3xl rounded-full"></div>
 
           <Image
-            src="/images/profile.jpg"
+            src="/images/profile.png"
             alt="Mustafa Salah"
             width={380}
             height={380}
