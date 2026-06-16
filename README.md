@@ -122,10 +122,6 @@ npm start
 
 ## Contact
 
-Email:
-
-[mustfas2005@gmail.com](mailto:mustfas2005@gmail.com)
-
 GitHub:
 
 https://github.com/Mustafa-Salah1
