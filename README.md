@@ -1,36 +1,143 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mustafa Salah Portfolio
 
-## Getting Started
+Modern personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
-First, run the development server:
+## Live Website
+
+🌐 Portfolio Website
+
+my-protofile-chi.vercel.app
+
+## About
+
+This portfolio showcases my work, projects, technical skills, and experience as a Flutter Developer and Front-End Engineer.
+
+The website was designed with a modern dark theme, smooth animations, and responsive layouts to provide a professional user experience across all devices.
+
+## Features
+
+* Modern Hero Section
+* Animated Splash Screen
+* About Me Section
+* Skills & Technologies Showcase
+* Featured Projects Section
+* Contact Section
+* Responsive Design
+* Framer Motion Animations
+* Smooth Scrolling
+* Modern Dark UI
+
+## Tech Stack
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+
+## Featured Projects
+
+### Dalili App
+
+Flutter application for finding trusted local services.
+
+**Technologies**
+
+* Flutter
+* REST APIs
+* Firebase
+
+### Finance App
+
+Modern mobile application focused on financial services.
+
+**Technologies**
+
+* Flutter
+* API Integration
+
+### Mobile UI
+
+Modern and responsive mobile interface design.
+
+**Technologies**
+
+* Flutter
+* UI/UX Design
+
+### Business Website
+
+Responsive website built with Next.js and Tailwind CSS.
+
+**Technologies**
+
+* Next.js
+* Tailwind CSS
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Mustafa-Salah1/my-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Build for production:
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start production server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
+Email:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[mustfas2005@gmail.com](mailto:mustfas2005@gmail.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub:
+
+https://github.com/Mustafa-Salah1
+
+LinkedIn:
+
+https://www.linkedin.com/in/mustafa-salah-38a264335/
+
+## Author
+
+Mustafa Salah
+
+Flutter Developer & Front-End Engineer
+
+© 2025 Mustafa Salah. All Rights Reserved.
